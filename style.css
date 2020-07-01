@@ -59,11 +59,8 @@ button{
     margin-bottom: 150px;
     float: left;  
 }
-.work img:hover{
-    transform:scale(1.2);
-    transition-duration: 0.5s;
-    box-shadow: 10px 10px 40px grey;
-}
+
+
 .feedback{
     background-image: url("footer-bg.png");
     text-align: center;
